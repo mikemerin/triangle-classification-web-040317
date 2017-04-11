@@ -20,6 +20,9 @@ class TriangleError < StandardError
 
 end
 
+
+# old answer before equations and grouping above
+#
 # class Triangle
 # 
 #   attr_accessor :s1, :s2, :s3
