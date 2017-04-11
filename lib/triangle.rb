@@ -1,6 +1,6 @@
 class Triangle
 
-  attr_accessor :s1, :s2, :s3
+  attr_accessor :s
 
   def initialize(s1,s2,s3) @s = [s1,s2,s3].sort end
 
